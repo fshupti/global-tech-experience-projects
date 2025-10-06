@@ -15,7 +15,7 @@ Each project applies SQL, Python, and Tableau to analyze real datasets and commu
 ## 🎵 Grammy Audience Analysis (Python)
 **Goal:** Explore Grammy Awards audience engagement trends using Python and Jupyter Notebook.  
 **Key Skills:** Python, Pandas, Matplotlib, data cleaning, exploratory data analysis.  
-📓 [View Notebook](./Grammys_Audience_Analysis.ipynb)
+📓 [View Notebook](./Grammys_Student%20(1).ipynb)
 
 ---
 
